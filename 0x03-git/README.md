@@ -1,3 +1,2 @@
 learning git
-hello world 
-hello there 
+how are you
